@@ -1,8 +1,5 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Fashion Kart | ReactJs | Firebase
+-	Built a responsive and fully functional e-commerce webapp using ReactJS for the frontend and Firebase for backend services, delivering a seamless shopping experience.
+-	Implemented robust user authentication and authorization using Firebase Authentication, enabling secure user registration, login, and management.
+-	Developed advanced search and filtering features to help users easily find products based on categories and price ranges.
+-	Developed a secure admin panel that allows administrators to add, update, and remove products, manage inventory, and oversee user activity using Firebase Firestore for real-time data updates.
